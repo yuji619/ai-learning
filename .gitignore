@@ -1,0 +1,7 @@
+﻿# 敏感文件，绝不上传
+free-api-keys.md
+TieZ-download/
+
+# Git 自带
+*.log
+.DS_Store
